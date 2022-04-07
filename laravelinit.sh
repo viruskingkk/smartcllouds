@@ -44,15 +44,3 @@ sed -i '$a 127.0.0.1 smartclouds.com' /etc/hosts
 # 容器重啟
 docker-compose down
 docker-compose run -d nginx mysql
-
-----以上完成---
-
-nmcli con up ens33
-
-IAmGaNv!t46p
-
-set password for 'root'@'localhost' = password('1qazxcDE#'); 
-
-/root/test_db/employees.sql
-
-
